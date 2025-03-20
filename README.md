@@ -14,8 +14,28 @@ This workshop aims to introduce **Python**, **GitHub**, and **VSCode** to studen
    - **What is VSCode?**
      - Downloading VSCode
 
-2. **Have a slice of Py**
+2. **Have a slice of Py(thon)**
    - Statements
    - Data types
    - Loops
    - Functions
+   - Packages
+  
+3. **Get on GitHub**
+   - Repositories
+     - README files
+   - Branches
+   - Commits
+   - Pull requests and forks
+
+4. **VSCode**
+   - Extensions
+     - Integration with Python and GitHub
+       - GitHub Copilot
+   - Organization
+   - Navigation
+
+5. **Closing Remarks**
+   - Pulse check
+   - Anything is possible!
+   - Future events
