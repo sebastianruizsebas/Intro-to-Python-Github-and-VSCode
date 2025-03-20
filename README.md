@@ -5,18 +5,18 @@
 
 ##### <font color = pink> A. What is Python? </font>
 
-		I. What can it be used for?
+   I. What can it be used for?
 
-		II. Getting Python on your computer
+   II. Getting Python on your computer
 ##### <font color = green>B. What is GitHub? </font>
 
-		I. What do people use it for?
+   I. What do people use it for?
 
-		II. Downloading GitHub
+   II. Downloading GitHub
 
 ##### <font color = lightblue> C. What is VSCode? </font>
 
-		I. Downloading VSCode
+   I. Downloading VSCode
 
 #### 2 . Have a slice of Py
 
