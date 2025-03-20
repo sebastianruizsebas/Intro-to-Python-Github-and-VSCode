@@ -38,4 +38,5 @@ This workshop aims to introduce **Python**, **GitHub**, and **VSCode** to studen
 5. **Closing Remarks**
    - Pulse check
    - Anything is possible!
+      - Build your own personal website
    - Future events
