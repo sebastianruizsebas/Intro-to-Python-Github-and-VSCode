@@ -13,4 +13,9 @@
  - Test installation via the terminal by typing python --version.
 
 ## What is GitHub used for?
- - GitHub is a resource for collaborating on code and is used for version control on software builds. It is also a popular platform to share and contribute to open-source software, through repositories.
+ - GitHub is a resource for collaborating on code and is used for version control on software builds. It is also a popular platform to share and contribute to open-source software, through repositories. Because of this, it is widely used in the software development community in many different fields including the science community, academia, and industry.
+ - Some interesting repositories related to neuroscience and computational neuroscience include
+   - [PyNN](https://github.com/NeuralEnsemble/PyNN) - a simulator independent python package that allows you to insert models built within the package into other simulators such as the one below.
+   - [Brian 2](https://github.com/brian-team/brian2) - a simulator for spiking neural networks (also built with python).
+   - [Monty](https://github.com/thousandbrainsproject/tbp.monty?tab=readme-ov-file) - a sensorimotor learning framework that seeks to rebuild AI using principles of the neocortex.
+   - 
