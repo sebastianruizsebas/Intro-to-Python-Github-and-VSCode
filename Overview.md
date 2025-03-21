@@ -18,4 +18,11 @@
    - [PyNN](https://github.com/NeuralEnsemble/PyNN) - a simulator independent python package that allows you to insert models built within the package into other simulators such as the one below.
    - [Brian 2](https://github.com/brian-team/brian2) - a simulator for spiking neural networks (also built with python).
    - [Monty](https://github.com/thousandbrainsproject/tbp.monty?tab=readme-ov-file) - a sensorimotor learning framework that seeks to rebuild AI using principles of the neocortex.
-   - 
+
+## How to access GitHub
+ - Create a profile on this [link](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't already have one
+ - Download and install [Git](https://git-scm.com/downloads) for your operating system (Optional for this workshop but recommended for future work)
+ - Configure Git by setting your username and email (use google or AI for help configuring Git with your personal information)
+
+## What is VSCode used for?
+   
