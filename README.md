@@ -40,3 +40,13 @@ This workshop aims to introduce **Python**, **GitHub**, and **VSCode** to studen
    - Anything is possible!
       - Build your own personal website
    - Future events
+  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# General Overview:
+
+  ## What is Python?
+  - Python is a high-level programming language that is used for many
+  - 
