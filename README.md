@@ -7,6 +7,7 @@ This workshop aims to introduce **Python**, **GitHub**, and **VSCode** to studen
 1. **General overview of Python, GitHub, and VSCode**
    - **What is Python?**
      - What can it be used for?
+     - Fun Fact: Named after a TV show Monty Python
      - Getting Python on your computer
    - **What is GitHub?**
      - What do people use it for?
