@@ -25,4 +25,6 @@
  - Configure Git by setting your username and email (use google or AI for help configuring Git with your personal information)
 
 ## What is VSCode used for?
-   
+ - VSCode is a code editor by Microsoft that can be used for various programming languages such as: Python, CSS, HTML, R, JavaScript and more.
+ - It was ranked as the most popular code editing environment in the Stack Overflow (popular coding forum) 2023 Developer Survey
+ - Download and install [VSCode](https://code.visualstudio.com/download) for your operating system
