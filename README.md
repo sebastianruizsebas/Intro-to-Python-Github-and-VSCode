@@ -16,7 +16,6 @@ This workshop aims to introduce **Python**, **GitHub**, and **VSCode** to studen
      - Downloading VSCode
 
 2. **Have a slice of Py(thon)**
-   - Statements
    - Data types
    - Loops
    - Functions
