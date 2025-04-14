@@ -18,8 +18,8 @@ This workshop aims to introduce **Python**, **GitHub**, and **VSCode** to studen
 2. **Have a slice of Py(thon)**
    - Data types
    - Loops
+   - Comprehensions
    - Functions
-   - Packages
   
 3. **Get on GitHub**
    - Repositories
